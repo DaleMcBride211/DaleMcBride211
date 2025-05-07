@@ -33,7 +33,7 @@ Here are some of the technologies and tools I have worked with or been exposed t
 ### Project 1: Scrypt
 * **Description:** Scrypt is a note-taking app that integrates GEMINI directly into it, so you don't have to go to other tabs to reword your notes with AI.
 * **Tech Stack:** `Next.js`, `React`, `Node.js`, `MongoDB`
-* **Link:** [![GitHub Repo](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/DaleMcBride211/notesapp) | [![Live Demo](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://notesapp-blush.vercel.app/)
+* **Link:** [GitHub Repo](https://github.com/DaleMcBride211/notesapp) | [Live Demo](https://notesapp-blush.vercel.app/)
 * ### Project 2: [Project Name]
 * **Description:** Another cool project you're proud of.
 * **Tech Stack:** `Python`, `Flask`, `PostgreSQL`
