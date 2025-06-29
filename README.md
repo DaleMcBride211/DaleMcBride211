@@ -20,10 +20,9 @@ Here are some of the technologies and tools I have worked with or been exposed t
 * **Languages:** `JavaScript`, `Python`, `TypeScript`
 * **Frontend:** `React`,`HTML5`, `CSS3`, `Tailwind CSS`, `jQuery`
 * **Backend:** `Node.js`, `Express.js`
-* **Databases:** `MySQL`, `MongoDB`, `SQLite`
-* **DevOps & Cloud:** `AWS`, `Git`, `GitHub Actions`
+* **Databases:** `PostgreSQL`, `MongoDB`
+* **DevOps & Cloud:**  `Git`, `GitHub Actions`
 * **Mobile:** `React Native`
-* **Data Science/ML:** `TensorFlow`, `PyTorch`, `scikit-learn`, `Pandas`, `NumPy`, `Jupyter Notebooks`
 * **Tools:** `VS Code`, `Postman`
 
 ---
@@ -37,7 +36,7 @@ Here are some of the technologies and tools I have worked with or been exposed t
 * ### Project 2: Lynk (In Progress)
 * **Description:** This Project is a to-do list app. 
 * **Tech Stack:** `Next.js`, `Supabase`
-* **Link:** [GitHub Repo](YOUR_PROJECT_REPO_LINK)
+* **Link:** [GitHub Repo](https://github.com/DaleMcBride211/lynk)
 
 ---
 
