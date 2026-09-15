@@ -1,52 +1,54 @@
-# Hi there, I'm Dale McBride
+# Hi there, I'm Dale McBride 👋
+
+Full-stack developer, Computer Science student at BYU-Idaho, and founder of **McBride Technologies LLC**. I build full-stack web, mobile, and geospatial software.
 
 ---
 
 ## 🚀 About Me
 
-* I'm a full-stack developer student and tech enthusiast.
-* 🌍 I'm based in Wyoming. (A little different, I know😂)
-* 🔭 I’m currently working on a note-taking app named Scrypt.
-* 🌱 I’m currently learning Next.js, React, Tailwind, and UI libraries.
-* 📫 How to reach me: dalemcbride129@gmail.com or www.linkedin.com/in/dale-mcbride307
-* ⚡ Fun fact: One of my hobbies is to hike in the mountains and look for Antlers!
+* 🎓 B.S. Computer Science (Web Development minor) at BYU-Idaho — graduating April 2027
+* 🔭 Currently building **Spurge**, a field operations platform for county weed & pest districts
+* 🌱 Currently going deep on Elixir/OTP, TypeScript, and geospatial tooling (PostGIS, GDAL, PMTiles)
+* 📫 Reach me: dalemcbride129@gmail.com or [LinkedIn](https://www.linkedin.com/in/dale-mcbride307)
 
 ---
 
 ## 🛠️ My Tech Stack
 
-Here are some of the technologies and tools I have worked with or been exposed to:
-
-* **Languages:** `JavaScript`, `Python`, `TypeScript`
-* **Frontend:** `React`,`HTML5`, `CSS3`, `Tailwind CSS`, `jQuery`
-* **Backend:** `Node.js`, `Express.js`
-* **Databases:** `PostgreSQL`, `MongoDB`
-* **DevOps & Cloud:**  `Git`, `GitHub Actions`
-* **Mobile:** `React Native`
+* **Languages:** `Elixir`, `TypeScript`, `JavaScript`, `Dart`, `Python`, `SQL`
+* **Frontend:** `React`, `Next.js`, `Tailwind CSS`, `MapLibre GL`, `HTML5`, `CSS3`
+* **Mobile:** `Flutter`, `React Native`
+* **Backend:** `Phoenix`, `OTP`, `Node.js`, `Express.js`
+* **Databases:** `PostgreSQL`, `PostGIS`, `Supabase`, `MongoDB`
+* **Geospatial:** `PostGIS`, `MapLibre GL`, `GDAL`
+* **Cloud & DevOps:** `Cloudflare Workers`, `Cloudflare R2`, `Vercel`, `Git`, `GitHub Actions`, `Sentry`
 * **Tools:** `VS Code`, `Postman`
 
 ---
 
-## ✨ My Projects
+## ✨ Featured Projects
 
-### Project 1: Scrypt
-* **Description:** Scrypt is a note-taking app that integrates GEMINI directly into it, so you don't have to go to other tabs to reword your notes with AI.
-* **Tech Stack:** `Next.js`, `React`, `Node.js`, `MongoDB`
-* **Link:** [GitHub Repo](https://github.com/DaleMcBride211/notesapp) | [Live Demo](https://notesapp-blush.vercel.app/)
-* ### Project 2: Lynk (In Progress)
-* **Description:** This Project is a to-do list app. 
-* **Tech Stack:** `Next.js`, `Supabase`
-* **Link:** [GitHub Repo](https://github.com/DaleMcBride211/lynk)
+### 🌿 Spurge *(in active development, private)*
+* **What it is:** A web and mobile field operations platform for county weed & pest districts.
+* **Tech Stack:** `Elixir/Phoenix`, `React`, `TypeScript`, `Flutter`, `PostgreSQL`
+
+### 🚨 CommandLynk — incident coordination *(private)*
+* **What it is:** Multi-tenant incident coordination system built on a GenServer-per-incident architecture.
+* **Tech Stack:** `Elixir`, `OTP`, `Phoenix`
+
+### 🧠 Recursive — collaborative AI workspace *(private)*
+* **What it is:** A DAG-based collaborative AI workspace for branching and connecting ideas.
+
+---
+
+## 💼 Experience
+
+* **Founder & Developer** — McBride Technologies LLC
+* **Front End Developer Intern** — ScriptShare, Rexburg, ID (Oct–Dec 2025): built responsive React Native components from UI/UX mockups
 
 ---
 
 ## 🔗 Connect with Me
 
-* [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dale-mcbride307)
-* [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](YOUR_PORTFOLIO_LINK)
-
-
----
-
-
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dale-mcbride307)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-livid-phi-7g620lacyd.vercel.app)
