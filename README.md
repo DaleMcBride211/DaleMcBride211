@@ -17,7 +17,7 @@ Full-stack developer, Computer Science student at BYU-Idaho, and founder of **Mc
 
 * **Languages:** `Elixir`, `TypeScript`, `JavaScript`, `Dart`, `Python`, `SQL`
 * **Frontend:** `React`, `Next.js`, `Tailwind CSS`, `MapLibre GL`, `HTML5`, `CSS3`
-* **Mobile:** `Flutter`, `React Native`
+* **Mobile:** `Flutter`
 * **Backend:** `Phoenix`, `OTP`, `Node.js`, `Express.js`
 * **Databases:** `PostgreSQL`, `PostGIS`, `Supabase`, `MongoDB`
 * **Geospatial:** `PostGIS`, `MapLibre GL`, `GDAL`
@@ -31,10 +31,6 @@ Full-stack developer, Computer Science student at BYU-Idaho, and founder of **Mc
 ### 🌿 Spurge *(in active development, private)*
 * **What it is:** A web and mobile field operations platform for county weed & pest districts.
 * **Tech Stack:** `Elixir/Phoenix`, `React`, `TypeScript`, `Flutter`, `PostgreSQL`
-
-### 🚨 CommandLynk — incident coordination *(private)*
-* **What it is:** Multi-tenant incident coordination system built on a GenServer-per-incident architecture.
-* **Tech Stack:** `Elixir`, `OTP`, `Phoenix`
 
 ### 🧠 Recursive — collaborative AI workspace *(private)*
 * **What it is:** A DAG-based collaborative AI workspace for branching and connecting ideas.
