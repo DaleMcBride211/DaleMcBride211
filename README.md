@@ -38,7 +38,7 @@ Full-stack developer, Computer Science student at BYU-Idaho, and founder of **Mc
 ## 💼 Experience
 
 * **Founder & Developer** — McBride Technologies LLC
-* **Front End Developer Intern** — ScriptShare, Rexburg, ID (Oct–Dec 2025): built responsive React Native components from UI/UX mockups
+* **Front End Developer Intern** — ScriptShare, Rexburg, ID (Oct–Dec 2025): set up authentication and starting screens
 
 ---
 
