@@ -26,8 +26,6 @@ Full-stack developer, Computer Science student at BYU-Idaho, and founder of **Mc
 
 ---
 
-## ✨ Featured Projects
-
 ### 🌿 Spurge *(in active development, private)*
 * **What it is:** A web and mobile field operations platform for county weed & pest districts.
 * **Tech Stack:** `Elixir/Phoenix`, `React`, `TypeScript`, `Flutter`, `PostgreSQL`
